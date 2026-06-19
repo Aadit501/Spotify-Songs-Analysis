@@ -1,3 +1,5 @@
+Link to quick view: https://spotify-analysis-8900.netlify.app/
+
 # Spotify Songs Analysis: Predicting Musical Popularity
 What makes a song a hit? This project investigates the relationship between musical audio features and popularity scores using a dataset of 32,000+ Spotify tracks. By rigorously evaluating four different machine learning models, the analysis seeks to quantify which sonic ingredients matter most and how different model architectures (from linear models to neural networks) handle the nuances of musical data.
 
